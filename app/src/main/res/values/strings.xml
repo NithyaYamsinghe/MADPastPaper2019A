@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PastPaper2019A</string>
+    <string name="editTextUsername">Username</string>
+    <string name="editTextPassword">Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonRegister">Register</string>
+    <string name="addMovieName">Movie Name</string>
+    <string name="addMovieYear">Movie Year</string>
+    <string name="buttonAddMovie">Add Movie</string>
+    <string name="movieName">Movie Name</string>
+    <string name="buttonSubmitComment">submit</string>
+    <string name="textViewComment">Comments</string>
+    <string name="textViewCurrentRatings">Current Ratings</string>
+    <string name="textViewRatingValue">0</string>
+</resources>
